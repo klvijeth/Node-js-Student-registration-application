@@ -5,7 +5,7 @@
   "main": "create_db.js",
   "dependencies": {
     "express": "^4.17.3",
-    "sqlite3": "^4.1.1",
+    "sqlite3": "^6.0.1",
     "http": "0.0.0",
     "nodemailer": "^8.0.5",
     "mysql": "^2.18.1"
